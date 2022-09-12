@@ -1,0 +1,5 @@
+export { Input } from "@Components/common/ui/input/input.component"
+export { Text } from "@Components/common/ui/text/text.component"
+export { ButtonCustom } from "@Components/common/ui/button/button.component"
+export { Checkbox } from "@Components/common/ui/checkbox/checkbox.component"
+export { TextArea } from "@Components/common/ui/text-area/text-area.component"
